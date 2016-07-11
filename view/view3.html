@@ -1,0 +1,9 @@
+<h1>Links</h1>
+
+<div id="simple" ng-controller="view3Ctrl">
+  <p>Let's receive some information sent from the home screen</p>
+  <button class="btn btn-inverse" ng-click="callReceive();">RECEIVE</button>
+	<p>Information :</p>
+	
+    <ul><li ng-repeat="fruit in fruits track by $index">{{fruit}}</li></ul>
+</div>
