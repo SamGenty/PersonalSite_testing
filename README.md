@@ -1,6 +1,6 @@
 Practicing Angular.js 
 ==============================
-I'm using th MVC (Model view controller) framework to test angular.js
+I'm using this MVC (Model view controller) framework to learn angular.js
 
 #MVC
 A starter template for an AngularJS Web Application with a MVC folder structure.
